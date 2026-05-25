@@ -1,3 +1,3 @@
-# Git Mastery Project - Version 1
+# Git Mastery Project - Version 2
 # About
 Learning advanced Git workflows
